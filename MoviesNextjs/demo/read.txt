@@ -1,0 +1,13 @@
+zustand
+zod
+tailwind
+prettier
+eslint
+heroicons
+headlessui
+shadcn
+tailwind-merge
+clsx
+radix-ui/icons
+react-canvas-confetti
+framer-motion

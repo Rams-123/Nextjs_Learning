@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image-slider-container {
+  margin: 0 auto;
+  width: 440px;
+}
+
+.image-slider-container .slick-prev:before,
+.image-slider-container .slick-prev:after {
+  color: black;
+}
